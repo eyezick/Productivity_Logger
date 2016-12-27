@@ -1,5 +1,5 @@
 # Productivity_Logger
-(https://i.imgur.com/j71lxXH.png)
+![Colored](https://i.imgur.com/j71lxXH.png)
 
 A Python 3.5.2 terminal line program, for you to self-report levels of productivity in timed intervals; tested on Mac 10.11.6
 
@@ -8,8 +8,8 @@ Do you get distracted? Perfect, this program will check in on timed intervals, a
 
 You choose how often you want it to check in on you, and this program will give off auditory and visual notifications until it grabs your attention. Log your time and receive instant feedback on your performance.
 
-(https://i.imgur.com/QAjhhiL.png)
-(https://i.imgur.com/6X8RDFKr.png)
+![Colored](https://i.imgur.com/QAjhhiL.png)
+![Colored](https://i.imgur.com/6X8RDFKr.png)
 
 A log text file is created for every session with the format YEAR-MONTH-DAY-HOUR-MINUTE-TIMEINTERVAL.TXT, and every interval check-in you make, is recorded in this file.
 
