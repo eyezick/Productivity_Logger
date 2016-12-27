@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
 import time, os, sys, random
-interval = 5
 from text_feedback import *
 
 if not os.path.exists('SelfAcct_Logs'):
